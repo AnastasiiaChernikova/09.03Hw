@@ -1,0 +1,70 @@
+
+
+* {
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.head-li1 {
+  color:rgba(205, 162, 116, 1);
+}
+
+.head-ul {
+    list-style: none;
+    display: flex;
+    padding: 10px 20px;
+    margin-left: 505px;
+    align-items: center;
+    margin-top: 38px;
+    gap: 40px;
+}
+
+.bg {
+    padding-top: 38px;
+    
+}
+
+.title {
+
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 96px;
+  letter-spacing: 0.22px;
+  
+
+}
+
+.logo {
+    
+}
+
+.main-sect {
+    background-image: url("./img/bg.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.head-div {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    font-weight: 400px;
+}
+
+.text-sec {
+    font-weight: 400px;
+}
+
+.div-p {
+    line-height: 33px;
+}
+
+
+
+
+
