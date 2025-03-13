@@ -15,9 +15,10 @@
     list-style: none;
     display: flex;
     padding: 10px 20px;
-    margin-left: 505px;
+    margin-left: 405px;
     align-items: center;
-    margin-top: 38px;
+    /* margin-top: 38px; */
+
     gap: 40px;
 }
 
@@ -33,24 +34,23 @@
   font-size: 80px;
   line-height: 96px;
   letter-spacing: 0.22px;
+  align-items: center;
   
 
 }
 
-.logo {
-    
-}
 
 .main-sect {
     background-image: url("./img/bg.webp");
     background-size: cover;
     background-repeat: no-repeat;
+    /* margin-top: 35px; */
+    padding-top: 188px;
+    padding-bottom: 260px ;
+    
 }
 
-.head-div {
-    display: flex;
-    align-items: center;
-}
+
 
 .text {
     font-weight: 400px;
@@ -63,6 +63,38 @@
 .div-p {
     line-height: 33px;
 }
+
+.link {
+    background-image: url("./img/IMAGE\ \(2\).webp");
+    display: block;
+    background-repeat: no-repeat;
+    margin-top: 35px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-right: 67px;
+    padding-left: 34px;
+}
+
+.head-div {
+    display: flex;
+    align-items: center;
+    
+}
+
+header {
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+
+.container {
+    width: 1200px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+
+
 
 
 
